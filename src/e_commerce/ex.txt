@@ -1,0 +1,3 @@
+1.Thread lifecycles : 1.new -> bunda thread hali start berilmagan , lekin yaratilgan boladi; 2.in process(worker) ->bunda start berilgan va ishini bajarayotgan davri; 3.Died -> yani ishini tugatgan yoki shut down qilingan
+va yana boshqa lifecycles bolishi mumkin lekin shart emas masalan threadning uhlashi,kutishi;
+2.Callable interfeysining metodi nimadur qaytaradi (return qiladi);Runnable niki shunchaki void tipida boladi yani hechnarsa qaytarmaydi;
